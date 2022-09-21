@@ -1,0 +1,25 @@
+* {
+    margin: 1;
+    padding: 1;
+}
+img
+{
+    border-radius: 100%;
+    width: 200px; 
+    height: 200px;
+
+}
+
+.box {
+    display: flex;
+    background-color: lightgray;
+    margin: 40px;
+    width: 110em;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+
